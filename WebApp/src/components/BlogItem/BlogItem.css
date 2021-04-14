@@ -1,0 +1,13 @@
+.BlogCardItem {
+    display: flex;
+    padding-bottom: 0;
+}
+
+.Media {
+    width: 160px;
+}
+
+
+.ContinueReadingText {
+    color: #002f6c;
+}
